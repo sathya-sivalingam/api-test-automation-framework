@@ -1,0 +1,12 @@
+# =============================
+# config/config.yaml
+# =============================
+env: dev
+
+dev:
+  base_url: https://jsonplaceholder.typicode.com
+  timeout: 30
+
+staging:
+  base_url: https://staging.api.com
+  timeout: 30
