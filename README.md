@@ -1,7 +1,6 @@
 # =============================
 # README.md (ENTERPRISE VERSION)
 # =============================
-"""
 # Enterprise API Test Automation Framework
 
 ## Overview
@@ -30,4 +29,3 @@ reports/report.html
 
 ## CI/CD
 Integrated with GitHub Actions
-"""
