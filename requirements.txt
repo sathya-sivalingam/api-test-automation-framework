@@ -1,0 +1,10 @@
+# =============================
+# requirements.txt
+# =============================
+pytest
+requests
+pytest-html
+allure-pytest
+python-dotenv
+pytest-xdist
+PyYAML
